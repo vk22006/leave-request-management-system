@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Prevent_Approval_Over_5_Days</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND(
+     Number_of_Days__c &gt; 5,
+     ISPICKVAL( Status__c , &quot;Approved&quot;) 
+)</errorConditionFormula>
+    <errorMessage>Leave requests exceeding 5 days cannot be approved.</errorMessage>
+</ValidationRule>
