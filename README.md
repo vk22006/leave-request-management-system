@@ -1,5 +1,7 @@
 # Leave Request Management System
 
+English | தமிழ் | हिन्दी | 简体中文 | Bahasa Indonesia
+
 A Salesforce-based Leave Request Management System for managing faculty and student leave requests.
 
 The project demonstrates Salesforce declarative automation, Apex development, REST API integration, reporting, dashboards, and Lightning application design.
