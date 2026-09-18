@@ -1,6 +1,6 @@
 # Leave Request Management System
 
-English | [தமிழ்](docs/README_TA.md) | हिन्दी | 简体中文 | Bahasa Indonesia
+English | [தமிழ்](docs/README_TA.md) | [हिन्दी](docs/README_HI.md) | [简体中文](docs/README_ZH.md) | [Bahasa Indonesia](docs/README_ID.md)
 
 A Salesforce-based Leave Request Management System for managing faculty and student leave requests.
 

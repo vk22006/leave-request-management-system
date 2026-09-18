@@ -1,6 +1,6 @@
 # Leave Request Management System
 
-[English](../README.md) | தமிழ் | हिन्दी | 简体中文 | Bahasa Indonesia
+[English](../README.md) | தமிழ் | [हिन्दी](README_HI.md) | [简体中文](README_ZH.md) | [Bahasa Indonesia](README_ID.md)
 
 ஆசிரியர்கள் மற்றும் மாணவர்களின் விடுப்பு கோரிக்கைகளை நிர்வகிப்பதற்கான Salesforce அடிப்படையிலான அமைப்பு.
 
