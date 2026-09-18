@@ -303,14 +303,5 @@ Presentation
 
 The implementation intentionally uses declarative Salesforce features where they are sufficient and Apex where custom processing is required.
 
-## Future Improvements
-
-Potential extensions include:
-
-* Approval workflow for leave requests
-* Email or in-app notifications
-* Role-based access control
-* Additional analytics
-* Bulk API processing for large volumes
-* Enhanced exception handling for integrations
-* Additional automated test coverage
+# License
+This project uses MIT License. Refer [LICENSE](LICENSE) for more details.
